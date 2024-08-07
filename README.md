@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.</h3>
 <br>
 
-<img align="right" alt="Coding" width="500" src="https://github.com/CandidSamurai/CandidSamurai/blob/main/designergif.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/CandidSamurai/CandidSamurai/blob/main/designergif.gif">
 
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=760BF7&width=435&lines=Welcome+to+My+GitHub+Profile...;Tech++Enthusiast;Turning+Ideas+into+Reality...;Let%E2%80%99s+Collaborate+on+Something+Great..." alt="Typing SVG" /></a></p>
 <br>
