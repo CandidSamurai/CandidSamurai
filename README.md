@@ -27,5 +27,3 @@
 <br/>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinab-nath&label=Profile%20views&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&base=600&abbreviated=true" alt="abhinab-nath" /> </p>
-
-<img align="center" alt="banner" width="100%" height="280" src="https://github.com/CandidSamurai/CandidSamurai/blob/main/room_at_dawn.gif">
